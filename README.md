@@ -14,7 +14,7 @@
 
 ## Overview
 
-This model in this project predicts whether or not a student can get placement opportunity based on his/her academic performance, work experiences, projects and many more features.
+This project builds a model that predicts whether a student can get job placement opportunity after graduating based on his/her academic performance, work experiences, projects etc. 
 </br></br>
 
 <div align="center">
