@@ -24,6 +24,12 @@ This model in this project predicts whether or not a student can get placement o
 ## Motivation
 
 ## Problem Solving Steps
+1. Load the data into a dataframe
+2. Perform Data Preprocessing like handling missing values, feature creation etc.
+3. Perform Eploratory Data Analysis and get valuable insights from the data
+4. Perform feature selection and select the best algorithm which fits the data
+5. Save the model in a pickle file and integrate the model with the UI whic is made using flask.
+6. Deploy the model web app on a cloud platform
 
 ## Source of Dataset
 
