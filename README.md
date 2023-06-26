@@ -14,7 +14,9 @@
 
 ## Overview
 
-<img src="img/">
+<div align="center">
+  <img src="img/students.jpeg">
+</div>
 
 ## Motivation
 
