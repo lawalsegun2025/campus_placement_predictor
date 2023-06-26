@@ -14,6 +14,9 @@
 
 ## Overview
 
+This model in this project predicts whether or not a student can get placement opportunity based on his/her academic performance, work experiences, projects and many more features.
+</br></br>
+
 <div align="center">
   <img src="img/students.jpeg">
 </div>
