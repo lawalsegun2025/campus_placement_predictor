@@ -23,6 +23,8 @@ This project builds a model that predicts whether a student can get job placemen
 
 ## Motivation
 
+The Placement of students is one of the most important objective of an educational institution. Reputation and yearly admissions of an institution invariably depend on the placements it provides it students with. That is why all the institutions, arduously, strive to strengthen their placement department so as to improve their institution on a whole. Any assistance in this particular area will have a positive impact on an institution’s ability to place its students. This will always be helpful to both the students, as well as the institution. 
+
 ## Problem Solving Steps
 1. Load the data into a dataframe
 2. Perform Data Preprocessing like handling missing values, feature creation etc.
