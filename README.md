@@ -1,6 +1,7 @@
 # WhatsApp Text Analyzer
 
 ## Table of Content
+*  [Demo](#demo)
 * [Overview](#overview)
 * [Motivation](#motivation)
 * [Problem Solving Steps](#problem-solving-steps)
@@ -11,6 +12,16 @@
 * [Model Performance](#model-performance)
 * [Deployment](#deployment)
 * [Future scope of project](#future-scope-of-project)
+
+## Demo
+
+
+
+
+https://github.com/lawalsegun2025/jop_placement_predictor/assets/94943377/a75d0994-a1b1-4374-a5dd-7c220836764a
+
+
+
 
 ## Overview
 
@@ -34,6 +45,12 @@ The Placement of students is one of the most important objective of an education
 6. Deploy the model web app on a cloud platform
 
 ## Source of Dataset
+
+This data set consists of Placement data of students in a XYZ campus. It includes secondary and higher secondary school percentage and specialization. It also includes degree specialization, type and Work experience and salary offers to the placed students.
+
+I would like to thank Dr. Dhimant Ganatara, Professor Jain University for helping the students by providing this data.
+
+Data set can be found [here](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement)
 
 ## Data Cleaning Techniques
 
