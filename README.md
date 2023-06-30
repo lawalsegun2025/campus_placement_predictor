@@ -66,6 +66,7 @@ Extensive Data Analysis was carried out during this project to help understand t
 - Percentage of Male and Female Placement
 
 ## Model Building
+Feature Selection was carried out using `ExtraTreesClassifier` feature importance and `mutual_infor_classif`. This is to get the features that contributes the most to predicting the target
 
 ## Model Performance
 
