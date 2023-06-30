@@ -54,6 +54,8 @@ Data set can be found [here](https://www.kaggle.com/datasets/benroshan/factors-a
 
 ## Data Cleaning Techniques
 
+The `salary` column was the only column with missing values which were filled with the mean salary. This because visualizing the comparison between mean salary, mode salary and median salary, mean salary had a better representation of the salary distribution.
+
 ## Exploratory Data Analysis
 
 ## Model Building
