@@ -58,6 +58,13 @@ The `salary` column was the only column with missing values which were filled wi
 
 ## Exploratory Data Analysis
 
+Extensive Data Analysis was carried out during this project to help understand the data and answer importand questions such as;
+- Top 5 earns from each degree coure
+- Maximum and Minimum Salary
+- Maximun number of students placed from each department
+- Which Departnment get the most placement
+- Percentage of Male and Female Placement
+
 ## Model Building
 
 ## Model Performance
