@@ -4,7 +4,7 @@ import pickle
 
 # unpickling the model
 file = open("cp_predictor.pkl", "rb")
-lr_2 = pickle.load(file)
+dc = pickle.load(file)
 file.close()
 
 app = Flask(__name__)
@@ -26,10 +26,10 @@ def hello_world():
         input_features = [[gender, spec, tech, work, ssc, hsc, dsc, mba]]
         
         # Predictiong the class of either 0 or 1
-        predicted_class = lr_2.predict(input_features)
+        predicted_class = dc.predict(input_features)
 
         # predict the probability
-        predicted_prob = lr_2.predict_proba(input_features)
+        predicted_prob = dc.predict_proba(input_features)
 
         print(predicted_class, predicted_prob[0][0])
 
