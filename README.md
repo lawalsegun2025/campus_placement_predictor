@@ -66,13 +66,26 @@ Extensive Data Analysis was carried out during this project to help understand t
 - Percentage of Male and Female Placement
 
 ## Model Building
-Feature Selection was carried out using `ExtraTreesClassifier` feature importance and `mutual_infor_classif`. This is to get the features that contributes the most to predicting the target
+Feature Selection was carried out using `ExtraTreesClassifier` feature importance and `mutual_infor_classif`. This is to get the features that contributes the most to predicting the target.
+
+4 Models were built, these include
+- RandomForestClassifier
+- Logistic Regression
+- DecisionTreeClassifie and
+- SVM 
+
 
 ## Model Performance
 
+RandomForestClassifier was the best performing model with an accuracy of over 88%
+
 ## Deployment
 
+The model was deployed on Render cloud platform
+
 ## Future scope of project
+
+Get more data to improve theaccuracy and performance of the model
 
 
 
